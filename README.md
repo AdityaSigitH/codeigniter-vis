@@ -2,4 +2,4 @@
 
 ## uts/kelompok4
 
-![alt text](preview/ss.png)
+![alt text](preview/api.png)
